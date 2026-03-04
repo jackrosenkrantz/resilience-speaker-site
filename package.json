@@ -1,0 +1,1 @@
+{"name": "resilience-speaker","version": "1.0.0","description": "Professional resilience speaker website for Columbia, SC","main": "server.js","scripts": {"start": "node server.js"},"dependencies": {"express": "^4.18.0"}}
